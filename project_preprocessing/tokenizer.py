@@ -4,7 +4,7 @@ import csv
 
 tokens = ''
 
-abbrev_file = open('abbreviations.txt', 'r', encoding = 'utf-8')
+abbrev_file = open('abbreviations_dict.txt', 'r', encoding = 'utf-8')
 abbreviations = abbrev_file.read().split('\n') # keep with .
 abbrev_file.close()
 abbreviations_masked = [ab.replace('.', '###') for ab in abbreviations]
