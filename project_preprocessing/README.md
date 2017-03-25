@@ -5,7 +5,7 @@
 - abbreviations_dict.txt - словарь сокращений с точкой из корпуса
 - hyphen_dict.txt - словарь слов с дефисом из корпуса, которые не делятся на токены
 - tokens.txt - итоговый файл с токенами
-
+---
 - corpus_testing - материалы для тестирования программы и результаты тестирования
-
+---
 - Report_Preprocessing_Sonina_P_Styrina_S.pdf - отчёт
