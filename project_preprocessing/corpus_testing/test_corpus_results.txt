@@ -1,0 +1,30 @@
+Sentence boundary test: 129 sentences.
+Accuracy: 126/129 -- 97% markers match
+
+
+Program:				Manual:
+
+1. Кинг Конг. Тем		Кинг Конг
+						.</se>
+
+2. Сэмюел				Сэмюел Л. Джексон
+   Л
+   .</se>
+   Джексон
+
+3. .					.</se>
+
+Tokenization test: 689 tokens.
+Accuracy = 686/689 -- 99% tokens match.
+
+
+Program:				Manual: 
+
+1. Потому Бога			Потому
+						Бога
+
+2. Сначала Логан 			Сначала
+						Логан
+
+3. На Логана			На
+						Логана
