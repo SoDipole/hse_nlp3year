@@ -1,0 +1,217 @@
+{
+	"A" : {
+		"form" : 
+			{
+			"S" : "brev"
+			},
+		"case" : 
+			{
+			"N" : "nom", 
+			"G" : "gen", 
+			"D" : "dat", 
+			"F" : "acc", 
+			"C" : "ins", 
+			"O" : "prep", 
+			"P" : "part", 
+			"L" : "loc",
+			"V" : "voc"
+			},
+		"gen" : 
+			{
+			"M" : "m", 
+			"F" : "f", 
+			"N" : "n", 
+			"C" : "m-f"
+			},
+		"num" : 
+			{
+			"S" : "sg", 
+			"P" : "pl"
+			},
+		"degree" : 
+			{
+			"E" : "supr", 
+			"C" : "comp"
+			}
+		},
+	"ADV" : {
+		"degree" : 
+			{
+			"E" : "supr", 
+			"C" : "comp"
+			}
+		},
+	"SPRO" : {
+		"person" : 
+			{
+			"1" : "1p", 
+			"2" : "2p", 
+			"3" : "3p"
+			},
+		"case" : 
+			{
+			"N" : "nom", 
+			"G" : "gen", 
+			"D" : "dat", 
+			"F" : "acc", 
+			"C" : "ins", 
+			"O" : "prep", 
+			"P" : "part", 
+			"L" : "loc",
+			"V" : "voc"
+			},
+		"gen" : 
+			{
+			"M" : "m", 
+			"F" : "f", 
+			"N" : "n", 
+			"C" : "m-f"
+			},
+		"num" : 
+			{
+			"S" : "sg", 
+			"P" : "pl"
+			}
+		},
+	"S" : {
+		"case" : 
+			{
+			"N" : "nom", 
+			"G" : "gen", 
+			"D" : "dat", 
+			"F" : "acc", 
+			"C" : "ins", 
+			"O" : "prep", 
+			"P" : "part", 
+			"L" : "loc",
+			"V" : "voc"
+			},
+		"gen" : 
+			{
+			"M" : "m", 
+			"F" : "f", 
+			"N" : "n", 
+			"C" : "m-f"
+			},
+		"num" : 
+			{
+			"S" : "sg", 
+			"P" : "pl"
+			}
+		},
+	"APRO" : {
+		"case" : 
+			{
+			"N" : "nom", 
+			"G" : "gen", 
+			"D" : "dat", 
+			"F" : "acc", 
+			"C" : "ins", 
+			"O" : "prep", 
+			"P" : "part", 
+			"L" : "loc",
+			"V" : "voc"
+			},
+		"gen" : 
+			{
+			"M" : "m", 
+			"F" : "f", 
+			"N" : "n", 
+			"C" : "m-f"
+			},
+		"num" : 
+			{
+			"S" : "sg", 
+			"P" : "pl"
+			}
+		},
+	"V" : {
+		"mood" : 
+			{
+			"G" : "ger", 
+			"I" : "inf", 
+			"M" : "imper"
+			},
+		"voice" : 
+			{
+			"A" : "act", 
+			"S" : "pass"
+			},
+		"tense" : 
+			{
+			"P" : "pres", 
+			"F" : "fut", 
+			"S" : "past"
+			},
+		"person" : 
+			{
+			"1" : "1p", 
+			"2" : "2p", 
+			"3" : "3p"
+			},
+		"gen" : 
+			{
+			"M" : "m", 
+			"F" : "f", 
+			"N" : "n", 
+			"C" : "m-f"
+			},
+		"num" : 
+			{
+			"S" : "sg", 
+			"P" : "pl"
+			}
+		},
+	"ANUM" : {
+		"case" : 
+			{
+			"N" : "nom", 
+			"G" : "gen", 
+			"D" : "dat", 
+			"F" : "acc", 
+			"C" : "ins", 
+			"O" : "prep", 
+			"P" : "part", 
+			"L" : "loc",
+			"V" : "voc"
+			},
+		"gen" : 
+			{
+			"M" : "m", 
+			"F" : "f", 
+			"N" : "n", 
+			"C" : "m-f"
+			},
+		"num" : 
+			{
+			"S" : "sg", 
+			"P" : "pl"
+			}
+		},
+	"NUM" : {
+		"case" : 
+			{
+			"N" : "nom", 
+			"G" : "gen", 
+			"D" : "dat", 
+			"F" : "acc", 
+			"C" : "ins", 
+			"O" : "prep", 
+			"P" : "part", 
+			"L" : "loc",
+			"V" : "voc"
+			},
+		"gen" : 
+			{
+			"M" : "m", 
+			"F" : "f", 
+			"N" : "n", 
+			"C" : "m-f"
+			},
+		"num" : 
+			{
+			"S" : "sg", 
+			"P" : "pl"
+			}
+		}
+}
